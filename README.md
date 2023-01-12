@@ -13,7 +13,7 @@ Ticket Booking System is a web-based application that allows users to book movie
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP, MySQL
 # Installation
- To install the Ticket Booking System, you will need a web server with PHP and MySQL installed. You can then clone or download the source code from a public repository and configure the database settings in the config.php file.
+ To install the Ticket Booking System, you will need a web server with PHP and MySQL installed. You can then clone or download the source code from a public repository and configure the database settings in the ***config.php*** file.
 
 # Usage
 - Open the Ticket Booking System in a web browser
