@@ -1,8 +1,8 @@
-Ticket Booking System
+#Ticket Booking System
 Ticket Booking System is a web-based application that allows users to book movie tickets online. The system allows users to view movie listings, select show timings and seats, and make payments.
 
-Features
-User registration and login
+#Features
+<ul>User registration and login<ul>
 Movie listings and details
 Theater listings and show timings
 Seat selection and booking
